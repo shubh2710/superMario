@@ -1,0 +1,33 @@
+
+supermariobro.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bigmario
+  rotate: false
+  xy: 1, 19
+  size: 336, 32
+  orig: 336, 32
+  offset: 0, 0
+  index: -1
+smallmario
+  rotate: false
+  xy: 1, 1
+  size: 216, 16
+  orig: 216, 16
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 339, 33
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+mashum
+  rotate: false
+  xy: 219, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
