@@ -10,23 +10,23 @@ Made just for fun and for learnig gaming platfrom.
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/shubh2710/superMario/blob/main/screen/1.jpeg" alt="Screenshot"/>
+  <img src="https://github.com/shubh2710/superMario/blob/master/screen/1.jpeg" alt="Screenshot"/>
 </p>
 <p align="center">
-  <img src="https://github.com/shubh2710/superMario/blob/main/screen/2.jpeg" alt="Screenshot"/>
+  <img src="https://github.com/shubh2710/superMario/blob/master/screen/2.jpeg" alt="Screenshot"/>
 </p>
 <p align="center">
-  <img src="https://github.com/shubh2710/superMario/blob/main/screen/3.jpeg" alt="Screenshot"/>
+  <img src="https://github.com/shubh2710/superMario/blob/master/screen/3.jpeg" alt="Screenshot"/>
 </p>
 <p align="center">
-  <img src="https://github.com/shubh2710/superMario/blob/main/screen/4.jpeg" alt="Screenshot"/>
+  <img src="https://github.com/shubh2710/superMario/blob/master/screen/4.jpeg" alt="Screenshot"/>
 </p>
 
 ## Wana play ??
 
 Download and install below apk
 
-<a href="https://github.com/shubh2710/superMario/demo">apk</a>
+<a href="https://github.com/shubh2710/superMario/blob/master/demo/MySuperMario-android.apk">apk</a>
 
 
 ## Contributing
