@@ -26,7 +26,7 @@ Made just for fun and for learnig gaming platfrom.
 
 Download and install below apk
 
-<a href="https://github.com/shubh2710/superMario/blob/master/demo/">apk</a>
+<a href="https://github.com/shubh2710/superMario/blob/master/demo">apk</a>
 
 
 ## Contributing
